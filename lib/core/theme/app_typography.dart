@@ -26,6 +26,7 @@ class AppTypography {
         fontWeight: FontWeight.w700,
         height: 1.2,
         letterSpacing: -0.72,
+        decoration: TextDecoration.none,
       );
 
   // H1 - 28px Bold
@@ -34,6 +35,7 @@ class AppTypography {
         fontWeight: FontWeight.w700,
         height: 1.3,
         letterSpacing: -0.28,
+        decoration: TextDecoration.none,
       );
 
   // H2 - 22px SemiBold
@@ -42,6 +44,7 @@ class AppTypography {
         fontWeight: FontWeight.w600,
         height: 1.35,
         letterSpacing: -0.22,
+        decoration: TextDecoration.none,
       );
 
   // H3 - 18px SemiBold
@@ -49,6 +52,7 @@ class AppTypography {
         fontSize: 18,
         fontWeight: FontWeight.w600,
         height: 1.4,
+        decoration: TextDecoration.none,
       );
 
   // Body Large - 17px Regular
@@ -56,6 +60,7 @@ class AppTypography {
         fontSize: 17,
         fontWeight: FontWeight.w400,
         height: 1.6,
+        decoration: TextDecoration.none,
       );
 
   // Body - 15px Regular
@@ -63,6 +68,7 @@ class AppTypography {
         fontSize: 15,
         fontWeight: FontWeight.w400,
         height: 1.6,
+        decoration: TextDecoration.none,
       );
 
   // Body Small - 14px Regular
@@ -70,6 +76,7 @@ class AppTypography {
         fontSize: 14,
         fontWeight: FontWeight.w400,
         height: 1.5,
+        decoration: TextDecoration.none,
       );
 
   // Caption - 12px Medium
@@ -78,6 +85,7 @@ class AppTypography {
         fontWeight: FontWeight.w500,
         height: 1.4,
         letterSpacing: 0.12,
+        decoration: TextDecoration.none,
       );
 
   // Overline - 11px SemiBold
@@ -86,5 +94,6 @@ class AppTypography {
         fontWeight: FontWeight.w600,
         height: 1.4,
         letterSpacing: 0.55,
+        decoration: TextDecoration.none,
       );
 }
